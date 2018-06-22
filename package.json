@@ -1,0 +1,23 @@
+{
+  "name": "upfive",
+  "version": "1.0.0",
+  "description": "Up5 Consultoria",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Up5Consultoria/upfive.git"
+  },
+  "keywords": [
+    "up5",
+    "consultoria"
+  ],
+  "author": "stn6mazia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Up5Consultoria/upfive/issues"
+  },
+  "homepage": "https://github.com/Up5Consultoria/upfive#readme"
+}
